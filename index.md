@@ -5,3 +5,7 @@
 ```
 const bonjour = "Hello world !"
 ```
+
+- [ ] Travailler
+- [ ] Manger
+- [ ] Dormir
